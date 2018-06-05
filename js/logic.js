@@ -74,6 +74,7 @@ function createMap(earthquakes) {
         },
         timeDimensionControlOptions: {
             autoPlay: true,
+			position: 'bottomleft',
             playerOptions: {
                 buffer: 10,
                 transitionTime: 200,

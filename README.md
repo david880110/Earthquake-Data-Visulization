@@ -4,3 +4,4 @@ Building a new set of tools that will allow United States Geological Survey (USG
 
 ## Data Sources
 * [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php): 'All Earthquakes from the Past 7 Days'
+* [Tectonic Plates](https://github.com/fraxen/tectonicplates)/GeoJSON/PB2002_boundaries.json

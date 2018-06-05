@@ -8,7 +8,4 @@ Building a new set of tools that will allow United States Geological Survey (USG
 
 ### Leaflet plugin
 * [Leaflet.TimeDimension](https://github.com/socib/Leaflet.TimeDimension)
-	* '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" />'
-	* '<link rel="stylesheet" href="https://cdn.rawgit.com/socib/Leaflet.TimeDimension/master/dist/leaflet.timedimension.control.min.css" /> '
-	* '<script type="text/javascript" src="https://cdn.rawgit.com/nezasa/iso8601-js-period/master/iso8601.min.js"></script>'
-	* '<script type="text/javascript" src="https://cdn.rawgit.com/socib/Leaflet.TimeDimension/master/dist/leaflet.timedimension.min.js"></script>'
+

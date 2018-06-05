@@ -1,3 +1,6 @@
 # Visualizing-Data-with-Leaflet
 
 Building a new set of tools that will allow United States Geological Survey (USGS) visualize their earthquake data to visualize their data to better educate the public and other government organizations and secure more funding on issues facing our planet.
+
+## Data Sources
+* 'All Earthquakes from the Past 7 Days'[USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)

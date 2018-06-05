@@ -67,6 +67,7 @@ function createMap(earthquakes) {
         center: [40.7, -94.5],
         zoom: 3,
         layers: [lightMap, earthquakes, tectonicPlates],
+		// Leaflet timedimension plugins
 		timeDimension: true,
 		timeDimensionControl: true,
 		timeDimensionOptions: {

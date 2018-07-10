@@ -9,5 +9,7 @@ Building a new set of tools that will allow United States Geological Survey (USG
 ## Technology Used
 
 -   JavaScript
+-   HTML
+-   CSS
 -   [Leaflet.TimeDimension](https://github.com/socib/Leaflet.TimeDimension)
 
